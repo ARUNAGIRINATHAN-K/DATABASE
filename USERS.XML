@@ -1,0 +1,26 @@
+<USERS>
+    <USER>
+        <USER_ID>1</USER_ID>
+        <NAME>Alice Johnson</NAME>
+        <EMAIL>alice@example.com</EMAIL>
+        <PASSWORD>$2b$12$HjaE...</PASSWORD>
+        <ROLE>Admin</ROLE>
+        <CREATED_AT>2025-05-07</CREATED_AT>
+    </USER>
+    <USER>
+        <USER_ID>2</USER_ID>
+        <NAME>Bob Organizer</NAME>
+        <EMAIL>bob@events.com</EMAIL>
+        <PASSWORD>$2b$12$OaJ2...</PASSWORD>
+        <ROLE>Organizer</ROLE>
+        <CREATED_AT>2025-05-07</CREATED_AT>
+    </USER>
+    <USER>
+        <USER_ID>3</USER_ID>
+        <NAME>Charlie Attendee</NAME>
+        <EMAIL>charlie@gmail.com</EMAIL>
+        <PASSWORD>$2b$12$fBsz...</PASSWORD>
+        <ROLE>Attendee</ROLE>
+        <CREATED_AT>2025-05-07</CREATED_AT>
+    </USER>
+</USERS>
